@@ -17,6 +17,9 @@ Donald Soundy - Programmer (Display Switch)
 Donald will be implementing a switch that will clear the mirror of all applications so the users may attend to themselves unperturbed. 
 There will be an additional function that brings back the applications upon pressing the button again.
 
+Donald will be implimenting a switch that will clear the mirror of all applications so the users may attend to themselves unperturbed. 
+There will be an additional function that brings back the applications upon pressing the button again.
+
 <br>
 
 ![A good sketch](/PrototypeImg/maincolo.png)
