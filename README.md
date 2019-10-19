@@ -1,7 +1,7 @@
 # Interactive Mirror Project
 Human Computer Interaction project 1
 
-(Group picture here)
+![Team members](p1.group12.png)
 Team members:
 
 Josephine Willgrubs - Team Leader (Base Interface Design)
@@ -34,7 +34,14 @@ Additional features being considered for development:
 - Customizable Display</p>
 
 <br>
-[Place the sketch pictures here]
+
+Sketches:
+
+The first display a user sees:
+![Main menu](/PrototypeImg/maincolo.png)
+
+When the user selects the menu options, more applications are featured
+![Menu open](/PrototypeImg/largemenu.png)
 
 As of 10/17/19:
  - Created basic code for webcam display
