@@ -6,6 +6,8 @@ Team members:
 
 Josephine Willgrubs - Team Leader (Base Interface Design/Health Tracker)
 
+Josephine and Chloe will be implementing the base interface design, which includes the menu the applications are in and the windows the applications the windows will run in on the mirror. They will also be implementing the Health Tracker application, which will include health statistics like the user's current weight and how long the user slept the previous night.
+
 Chloe Osgood - Programmer (Base Interface Design/Health Tracker)
 
 Aishwarya Anand - Programmer (Clock Display and Weather Display)
