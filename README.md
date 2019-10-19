@@ -4,17 +4,20 @@ Human Computer Interaction project 1
 ![Team members](p1.group12.png)
 Team members:
 
-Josephine Willgrubs - Team Leader (Base Interface Design)
+Josephine Willgrubs - Team Leader (Base Interface Design/Health Tracker)
 
-Chloe Osgood - Programmer (Health Tracker)
+Chloe Osgood - Programmer (Base Interface Design/Health Tracker)
 
-Aishwarya Anand - Programmer (Clock Display)
+Aishwarya Anand - Programmer (Clock Display and Weather Display)
 
 Charlotte Phillips - Programmer (Music Player)
 
 Donald Soundy - Programmer (Display Switch)
 
 <br>
+
+![A good sketch](/PrototypeImg/maincolo.png)
+
 Objective:
 The interactive mirror is a website that mimics the operations of a personal mirror with interactive features. These include:
 
@@ -37,14 +40,35 @@ Additional features being considered for development:
 
 Sketches:
 
-The first display a user sees:
-![Main menu](/PrototypeImg/maincolo.png)
+Current condition: Default setting of the menu.
 
-When the user selects the menu options, more applications are featured
-![Menu open](/PrototypeImg/largemenu.png)
+![Main menu](/PrototypeImg/menuclose.png)
 
-As of 10/17/19:
+Current condition: The user has opened the menu.
+![Menu open](/PrototypeImg/menuopen.png)
+
+Current condition: The user is dragging a menu option into an open slot to activate the app.
+![Music drag](/PrototypeImg/musicdrag.png)
+
+Current condition: The application is open and operating for the user.
+![Music playing](/PrototypeImg/musicopen.png)
+
+Current condition: The user is finished with the app and drags it to the menu to close it.
+![Music close]{/PrototypeImg/musicmenu.png)
+
+Current condition: The menu is organized by most recently used. The music player is now the most recently used.
+![Recent used](/PrototypeImg/mostrecentmusic.png)
+
+Current condition: The user can open a larger menu that holds more apps
+![Color menu](/PrototypeImg/largemenu.png)
+
+
+
+
+
+As of 10/19/19:
  - Created basic code for webcam display
  - Development of music player underway
  - Development of weather display underway
  - Development of clock display underway
+ - Development of applications underway
