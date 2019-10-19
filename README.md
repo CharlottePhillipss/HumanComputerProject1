@@ -8,13 +8,14 @@ Josephine Willgrubs - Team Leader (Base Interface Design/Health Tracker)
 
 Chloe Osgood - Programmer (Base Interface Design/Health Tracker)
 
-Josephine and Chloe will be implementing the base interface design, which includes the menu the applications are in and the windows the applications the windows will run in on the mirror. They will also be implementing the Health Tracker application, which will include health statistics like the user's current weight and how long the user slept the previous night.
-
 Aishwarya Anand - Programmer (Clock Display and Weather Display)
+Aishwarya will be working on the Clock display (a digital clock showing hour, minute and seconds)  and the weather information. These would be implemented using the p5.js library of processing and HTML5.
 
 Charlotte Phillips - Programmer (Music Player)
 
 Donald Soundy - Programmer (Display Switch)
+Donald will be implementing a switch that will clear the mirror of all applications so the users may attend to themselves unperturbed. 
+There will be an additional function that brings back the applications upon pressing the button again.
 
 <br>
 
