@@ -12,6 +12,7 @@ Aishwarya Anand - Programmer (Clock Display and Weather Display)
 Aishwarya will be working on the Clock display (a digital clock showing hour, minute and seconds)  and the weather information. These would be implemented using the p5.js library of processing and HTML5.
 
 Charlotte Phillips - Programmer (Music Player)
+Charlotte will be designing and implementing the music player. The user can play music they have uploaded into the mirror. The player will be implemention using the p5.js library.
 
 Donald Soundy - Programmer (Display Switch)
 Donald will be implementing a switch that will clear the mirror of all applications so the users may attend to themselves unperturbed. 
@@ -40,7 +41,7 @@ The interactive mirror is a website that mimics the operations of a personal mir
 Additional features being considered for development:
 - Phone Sync
 - Light Source
-- Customizable Display</p>
+- Customizable Display
 
 <br>
 
@@ -60,10 +61,10 @@ Current condition: The application is open and operating for the user.
 ![Music playing](/PrototypeImg/musicopen.png)
 
 Current condition: The user is finished with the app and drags it to the menu to close it.
-![Music close]{/PrototypeImg/musicmenu.png)
+![Music close](/PrototypeImg/musicmenu.png)
 
 Current condition: The menu is organized by most recently used. The music player is now the most recently used.
-![Recent used](/PrototypeImg/mostrecentmusic.png)
+![Recent used](/PrototypeImg/mostrecentmusic.jpg)
 
 Current condition: The user can open a larger menu that holds more apps
 ![Color menu](/PrototypeImg/largemenu.png)
