@@ -22,59 +22,18 @@ There will be an additional function that brings back the applications upon pres
 
 <br>
 
-![A good sketch](/PrototypeImg/maincolo.png)
-
 Objective:
 The interactive mirror is a website that mimics the operations of a personal mirror with interactive features. These include:
 
 - A digital clock
 - Weather display
-- Health tracker
 - Main menu with access to:
     1. Music Player
-    2. Youtube
-    3. News Feed
-    4. Social Media
-    5. Display switch
-    
-Additional features being considered for development:
-- Phone Sync
-- Light Source
-- Customizable Display
+    2. News Feed
+    3. Calendar
 
 <br>
 
-Sketches:
+Sketches: Sketches can be found under the PrototypeImg folder.
 
-Current condition: Default setting of the menu.
-
-![Main menu](/PrototypeImg/menuclose.png)
-
-Current condition: The user has opened the menu.
-![Menu open](/PrototypeImg/menuopen.png)
-
-Current condition: The user is dragging a menu option into an open slot to activate the app.
-![Music drag](/PrototypeImg/musicdrag.png)
-
-Current condition: The application is open and operating for the user.
-![Music playing](/PrototypeImg/musicopen.png)
-
-Current condition: The user is finished with the app and drags it to the menu to close it.
-![Music close](/PrototypeImg/musicmenu.png)
-
-Current condition: The menu is organized by most recently used. The music player is now the most recently used.
-![Recent used](/PrototypeImg/mostrecentmusic.jpg)
-
-Current condition: The user can open a larger menu that holds more apps
-![Color menu](/PrototypeImg/largemenu.png)
-
-
-
-
-
-As of 10/19/19:
- - Created basic code for webcam display
- - Development of music player underway
- - Development of weather display underway
- - Development of clock display underway
- - Development of applications underway
+Mirror link: https://github.com/CharlottePhillipss/HumanComputerProject1/blob/master/mirror_sketch/index.html
