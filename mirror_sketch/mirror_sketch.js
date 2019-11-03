@@ -54,3 +54,4 @@ function draw() {
   let news = select("#news");
   news.position(0, 700);
 }
+
