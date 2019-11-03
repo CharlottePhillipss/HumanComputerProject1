@@ -37,3 +37,20 @@ The interactive mirror is a website that mimics the operations of a personal mir
 Sketches: Sketches can be found under the PrototypeImg folder.
 
 Mirror link: https://github.com/CharlottePhillipss/HumanComputerProject1/blob/master/mirror_sketch/index.html
+
+<br>
+
+## Principles and Golden rules
+Principles <br>
+
+Our mirror's main principle is direct manipulation. Users should be able to directly press on the mirror to select the appplication, and drag the icons to the desired location. This allows the program to be easily learned as this intuitive display is used on smartphones. The difficult of this principle is the graphical implementation. Compared to other principles like form filling or command language (where the users have more control in their choices) graphical displays are difficult and time consuming to create.
+
+<br>
+
+Goldens Rule <br>
+
+The golden rules we mainly considered are striving for consistancy and reducing short term memory load. Our icons and text are consistent and add the usability by being a familiar set up, so anyone can start using it right away. To reduce short term memory load we limited the amount of items on the screen to 8. On the left side the weather is always displayed and the user can add three more applications to the left. On the right side the time and the date are always displayed and user can add three additional items to the side. No more icons can be added to keep the short term memory load low and so the displayed applications don't become too small to be seen and used.
+
+<br>
+
+The menu is also ordered by most frequently used so the user can easily access frequently used applications.
