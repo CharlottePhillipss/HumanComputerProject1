@@ -1,0 +1,92 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+}
+
+.content {
+	display: block;
+	width: 1010px;
+	background: rgb(215, 215, 215);
+	padding: 7px;
+	overflow: hidden;
+	margin: 0 auto;
+
+}
+.content *{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	box-sizing:border-box;
+	font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.simple-marquee-container *{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	box-sizing:border-box;
+	font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.simple-marquee-container {
+	width: 100%;
+	background: rgb(62, 96, 187);
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+	box-sizing: border-box;
+	height: 20px;
+	position: relative;
+	cursor: pointer;
+}
+
+.marquee-sibling {
+	padding: 0;
+	background: rgb(255, 255, 255);
+	width: 20%;
+	height: 20px;
+	line-height: 18px;
+	font-size: 20px;
+	font-weight: normal;
+	color: #321c91;
+	text-align: center;
+	float: left;
+	left: 0;
+	z-index: 2000;
+}
+
+.marquee, *[class^="marquee"] {
+	display: inline-block;
+	white-space: nowrap;
+	position:absolute;
+}
+
+.marquee{
+  margin-left: 25%;
+}
+
+.marquee-content-items{
+  display: inline-block;
+  padding: 0px;
+  margin: 0;
+  height: 20px;
+  position: relative;
+}
+
+.marquee-content-items li{
+  display: inline-block;
+  line-height: 0px;
+  color: rgb(46, 10, 4);
+}
+
+.marquee-content-items li:after{
+	content: "|";
+	margin: 0 1em;
+}
