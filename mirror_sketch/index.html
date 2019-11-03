@@ -11,18 +11,40 @@
   <script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
   <script language="javascript" type="text/javascript" src="mirror_sketch.js"></script>
   <!-- OK, YOU CAN MAKE CHANGES BELOW THIS LINE AGAIN -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  </head>
+  
+  <body>
+    <script src="sketch.js"></script>
+    <div id = "webcam">
+    </div>
+  <iframe id = "spotify" src="https://open.spotify.com/embed/track/3cfOd4CMv2snFaKAnMdnvK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <iframe id = "calendar" src="https://calendar.google.com/calendar/embed?src=phillips.charlotte11%40gmail.com&ctz=America%2FChicago" style="border: 0" width="230" height="220" frameborder="0" scrolling="no" top="500"></iframe>
+    <div id = "news" class="content">
+    <div class="simple-marquee-container">
+        <div class="marquee-sibling">
+            Some News
+        </div>
+        <div class="marquee">
+            <ul class="marquee-content-items">
+                <li>Man falls to his death in Washington state on mountain climbing trip with son</li>
+                <li>Dem Rep. says impeachment transcripts likely coming 'within the next five days'</li>
+                <li>White nationalists caught trying to film video in front of Emmett Till memorial</li>
+                <li>Walter Mercado, an iconic Puerto Rican astrologer and celebrity, dies at 88</li>
+                <li>Kenya's Jepkosgei and Kamworor win New York City Marathon</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="news.js"></script>
 
-  <!-- This line removes any default padding and style.
-       You might only need one of these values set. -->
-  <style> body { padding: 0; margin: 0; } </style>
-</head>
-
-<body>
-  <script src="mirror_sketch.js"></script>
-  <div id = 'webcam'>
-  </div>
-  <div id = 'spotify'>
-  <iframe src="https://open.spotify.com/embed/track/3cfOd4CMv2snFaKAnMdnvK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  </div>
-</body>
+<script>
+    $(function (){
+            $('.simple-marquee-container').SimpleMarquee();
+    });
+</script>
+  </body>
 </html>
