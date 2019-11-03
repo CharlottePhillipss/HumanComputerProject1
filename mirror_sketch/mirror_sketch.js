@@ -55,3 +55,4 @@ function draw() {
   news.position(0, 700);
 }
 
+
