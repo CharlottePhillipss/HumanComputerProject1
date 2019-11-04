@@ -35,13 +35,16 @@ The interactive mirror is a website that mimics the operations of a personal mir
 <br>
 
 Sketch:
+
 ![sketch](/PrototypeImg/maincolo.png)
 
 Feedback: We recieved feedback that stated our mirror design was too minimal and did not need to resemble an iphone. We took these comments into account when designing our interface. For our final design, the calendar and news functionalities will be displayed by default instead of accessible through the menu.
 
-![screenshot of project](workingver1.png)
+![screenshot of project](workingver1.PNG)
 
-Mirror link: http://charlottephillipss.github.io/HumanComputerProject1/jw_mirror/index.html
+![gif of project](working_mirror.gif)
+
+Mirror link: http://charlottephillipss.github.io/p1.12/jw_mirror/index.html
 
 <br>
 
