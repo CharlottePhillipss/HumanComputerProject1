@@ -3,7 +3,8 @@ let width = 1024;
 let height = 764;
 let weather="";
 let json;
-let img;
+let img_w;
+let img_y;
 let canvas;
 
 function preload() {
@@ -22,7 +23,10 @@ function setup() {
     capture.hide();
     canvas.parent('webcam');
     weather=json.main.temp;
-    img = loadImage('cloudy.png'); // Load the image
+    img_w = loadImage('cloudy.png'); // Load the image
+    img_y = loadImage('kitty.PNG');
+
+
 }
 
 function draw() {
@@ -37,7 +41,8 @@ function draw() {
     fill(255);
     textSize(32);
     text(weather+ "\xB0F",10,30);
-    image(img, 10, 25);
+    image(img_w, 10, 25);
+    image(img_y, 10, 215, 250, 250);
     m = month();
     d = day();
     y = year();
@@ -53,5 +58,24 @@ function draw() {
     spot.position(10, 120);
     let news = select("#news");
     news.position(0, 700);
+
+
+    let menu = select("#menu");
+    menu.position(40, 600);
+    let spoti = select("#spoti");
+    spoti.position(160, 600);
+    let newsy = select("#newsy");
+    newsy.position(280, 600);
+    let twit = select("#twit");
+    twit.position(520, 600);
+    let you = select("#you");
+    you.position(400, 600);
+    let face = select("#face");
+    face.position(640, 600);
+
+
+
+
+
 }
 

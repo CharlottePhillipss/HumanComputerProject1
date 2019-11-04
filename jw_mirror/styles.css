@@ -90,3 +90,68 @@ h1 {
     content: "|";
     margin: 0 1em;
 }
+
+.btn{
+    height: 0;
+    width: 0px;
+    bottom: 0px;
+    left: 50px;
+    border-radius: 50%;
+
+
+}
+.fa {
+    padding: 17px 14px 0px;
+    width: 64px;
+    height: 64px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-navicon {
+    background: #003d99;
+    color: white;
+
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+
+
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+
+}
+
+
+.fa-spotify {
+    background: #1ED761;
+    color: black;
+
+}
+
+.fa-youtube-play {
+    background: #FFFFFF;
+    color: #c4302b;
+
+
+}
+
+.fa-newspaper-o {
+    background: #D3D3D3;
+    color: #003d99;
+
+}
+
