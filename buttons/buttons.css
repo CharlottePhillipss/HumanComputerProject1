@@ -1,0 +1,44 @@
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-navicon {
+  background: #003d99;
+  color: white;
+}
+
+.fa-spotify {
+  background: #1ED761;
+  color: black;
+}
+
+.fa-youtube-play {
+  background: #FFFFFF;
+  color: #c4302b;
+}
+
+.fa-newspaper-o {
+  background: #D3D3D3;
+  color: #003d99;
+}
